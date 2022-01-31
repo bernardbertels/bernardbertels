@@ -4,8 +4,7 @@ I'm Bernard Bertels, usually i make Minecraft Plugins, but i'm learning new thin
 Wanna join my Discord? Link below!
 
 **Coding Languages**
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=eendjebernard)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=eendjebernard&layout=compact)
 
 **Others**                        
 **-** 🐦 Twitter: https://twitter.com/eendjebernard
