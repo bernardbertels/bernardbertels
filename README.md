@@ -11,3 +11,5 @@ Wanna join my Discord? Link below!
 **Others**          
 **-** 🤖 Discord: https://discord.gg/TEskVuRtFx                     
 **-** 🐦 Twitter: https://twitter.com/bernardbertels_
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=eendjebernard&theme=highcontrast&show_icons=true&count_private=true)
