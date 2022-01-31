@@ -5,8 +5,7 @@ Wanna join my Discord? Link below!
 
 **Coding Languages**
 
-**-** ☕ Java (Usually Minecraft Development) 
-**-** ☕ HTML/CSS (Still learning CSS, not too hard because Google exists)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=eendjebernard)
 
 **Others**                        
 **-** 🐦 Twitter: https://twitter.com/eendjebernard
