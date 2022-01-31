@@ -5,6 +5,9 @@ Wanna join my Discord? Link below!
 
 **Coding Languages**
 
+**-** ☕ Java/Kotlin (Bukkit Development)
+**-** ☕ HTML/CSS (Still learning CSS, not too hard because Google exists)
+
 **Others**                        
 **-** 🐦 Twitter: https://twitter.com/eendjebernard
 
