@@ -6,7 +6,6 @@ Wanna join my Discord? Link below!
 **Coding Languages**
 
 **-** ☕ Java (Usually Minecraft Development)
-
 **-** ☕ HTML/CSS (Still learning CSS, not too hard because Google exists)
 
 **Others**                        
