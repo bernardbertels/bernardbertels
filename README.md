@@ -1,4 +1,4 @@
-**👋 Hello there!**
+<h1>👋 Hello there!</h1>
 
 I'm Bernard, a developer based in Belgium. I mainly code Minecraft plugins & websites, but I often also code Roblox projects and other things.
 
